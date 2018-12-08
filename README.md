@@ -1,0 +1,2 @@
+# zsu
+első repo
